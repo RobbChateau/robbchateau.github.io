@@ -1,8 +1,7 @@
-## Under construction... 
+---
+layout: default
+---
 
+<br />
 
-contact : robbathon@gmail.com
-
-Kolding / Odense / Peckham
-
-
+contact : robb@sdu.dk
